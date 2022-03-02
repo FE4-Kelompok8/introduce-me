@@ -1,0 +1,2 @@
+salah satu materi yang membuat saya tertarik untuk terjun ke dunia front end adalah library ReactJS 
+saya ingin menfokuskan diri di front end developer karna saya ingin mencoba hal baru dengan merubah sebuah desain ui menjadi sebuah kode
